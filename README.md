@@ -32,15 +32,21 @@
 
 ## 📊 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalAkale&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalAkale&show_icons=true&theme=tokyonight" alt="Vishal Akale GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalAkale&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalAkale&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VishalAkale&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VishalAkale&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -54,4 +60,4 @@ A dynamic car rental system developed using **Java** and **MySQL**, featuring re
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-akale/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-akale/)
