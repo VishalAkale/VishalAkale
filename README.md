@@ -30,6 +30,12 @@
 
 ---
 
+## 💡 My Primary Language
+
+[![Top Lang](https://img.shields.io/badge/Primary-Language%3A%20Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
