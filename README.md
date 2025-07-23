@@ -60,7 +60,7 @@
 
 ### 🚗 Hourly Car Rental App  
 A dynamic car rental system developed using **Java** and **MySQL**, featuring real-time booking and database interaction.  
-🔗 [View Project Repo](https://github.com/VishalAkale/Hourly-Car-Rental-App)
+🔗 [View Project Repo](https://github.com/VishalAkale/Hourly-Car-Rental-System-Project)
 
 ---
 
