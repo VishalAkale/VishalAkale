@@ -51,7 +51,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalAkale&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=VishalAkale&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
